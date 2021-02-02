@@ -52,7 +52,7 @@ namespace MoviesforRent
 
             CIDBox.Focus();
         }
-        // it shows rental customer record....
+        // it shows rental customer record...
         private void Getrentalrecordscustmer()
         {
            
